@@ -26,6 +26,12 @@ The aim is to investigate whether trends in prevalence and waiting-list activity
 
 ---
 
+## Key Visual
+
+![Average Waiting List Demand Relative to ADHD Prevalence](images/chart_6_average_ratio.png)
+
+---
+
 ## Author
 
 Fernanda Pedley (she/her)
