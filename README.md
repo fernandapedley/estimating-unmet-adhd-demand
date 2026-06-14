@@ -20,5 +20,5 @@ NHS England Neurodevelopmental Data Hub
 
 ## Author
 
-Fernanda Alano Gomes
+Fernanda Pedley (she/her)
 Imperial College London – Professional Certificate in Data Analytics
