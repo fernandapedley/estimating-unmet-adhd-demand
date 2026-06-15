@@ -92,4 +92,4 @@ In addition, the waiting-list-to-prevalence ratio may reflect a combination of u
 
 ## Next Page
 
-➡️ [View Detailed Findings](findings.md)
+➡ [View Detailed Findings](findings.md)
