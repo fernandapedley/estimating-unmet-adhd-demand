@@ -1,26 +1,22 @@
 <p align="center">
+  <img src="images/imperial_logo_cropped.png" width="450">
+</p>
 
-<a href="findings.md">
-<b>📊 Detailed Findings</b>
-</a>
+<p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="findings.md"><b>📊 Detailed Findings</b></a>
 
-<a href="visualisations.md">
-<b>📈 Visualisations</b>
-</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="visualisations.md"><b>📈 Visualisations</b></a>
 
-<a href="methodology.md">
-<b>⚙️ Methodology</b>
-</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="methodology.md"><b>⚙️ Methodology</b></a>
 
-<a href="resources.md">
-<b>📚 Resources</b>
-</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="resources.md"><b>📚 Resources</b></a>
 
 </p>
 
@@ -34,24 +30,21 @@
 
 ### Imperial College London
 
-Healthcare Analytics Portfolio Project
-
-**Author:** Fernanda Pedley (she/her)
-
+**Author:** Fernanda Pedley (she/her)  
 **Date:** June 2026
 
 ---
 
 ## Project Summary
 
-| Item        | Details                                                                                  |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| Topic       | ADHD Assessment Demand                                                                   |
-| Geography   | England                                                                                  |
-| Period      | Dec 2024 – Dec 2025                                                                      |
-| Tools       | Python, Pandas, Matplotlib                                                               |
-| Data Source | NHS England Neurodevelopmental Data Hub                                                  |
-| Key Finding | Adult ADHD pathways consistently showed higher service pressure than children's services |
+| Item | Details |
+|--------|--------|
+| Topic | ADHD Assessment Demand |
+| Geography | England |
+| Period | December 2024 – December 2025 |
+| Tools | Python, Pandas, Matplotlib |
+| Data Source | NHS England Neurodevelopmental Data Hub |
+| Key Finding | Adult ADHD pathways showed the highest service pressure |
 
 ---
 
@@ -61,17 +54,19 @@ This capstone project explores ADHD prevalence, referrals and waiting-list activ
 
 The aim is to investigate whether trends in prevalence and service activity can provide useful insight into potential unmet demand for ADHD assessment and treatment services.
 
-Using Python, I analysed national ADHD data published through NHS England's Neurodevelopmental Data Hub between December 2024 and December 2025. The analysis focuses on trends over time, differences between age groups and the relationship between prevalence and waiting-list activity.
+Using Python, I analysed national ADHD data published through NHS England's Neurodevelopmental Data Hub between December 2024 and December 2025.
+
+The analysis focuses on trends over time, differences between age groups and the relationship between prevalence and waiting-list activity.
 
 ---
 
 ## Key Findings
 
-* ADHD prevalence increased by approximately 54% between December 2024 and December 2025.
-* Waiting-list activity increased by approximately 54% during the same period.
-* Adult age groups accounted for most of the observed growth.
-* Adult ADHD services consistently showed higher levels of service pressure than children's services.
-* Potential unmet demand appears greatest within adult ADHD pathways.
+- ADHD prevalence increased by approximately 54% between December 2024 and December 2025.
+- Waiting-list activity increased by approximately 54% during the same period.
+- Adult age groups accounted for most of the observed growth.
+- Adult ADHD services consistently showed higher levels of service pressure than children's services.
+- Potential unmet demand appears greatest within adult ADHD pathways.
 
 ---
 
@@ -85,10 +80,10 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ## Explore the Project
 
-* [Detailed Findings](findings.md)
-* [Visualisations Gallery](visualisations.md)
-* [Methodology](methodology.md)
-* [Project Resources](resources.md)
+- [📊 Detailed Findings](findings.md)
+- [📈 Visualisations](visualisations.md)
+- [⚙️ Methodology](methodology.md)
+- [📚 Project Resources](resources.md)
 
 ---
 
@@ -104,6 +99,7 @@ The analysis combines my interest in healthcare commissioning, service improveme
 
 **Fernanda Pedley (she/her)**
 
-Programme Lead, NHS SEL Integrated Care Board
+Programme Lead, NHS
 
-Professional Certificate in Data Analytics - Imperial College London
+Professional Certificate in Data Analytics  
+Imperial College London
