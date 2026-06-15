@@ -56,7 +56,7 @@ The project sought to:
 
 ## Key Questions
 
-This analysis explores several questions:
+This analysis explores the following questions:
 
 1. How have ADHD prevalence, waiting-list activity and referrals changed over time?
 2. Which age groups account for the greatest levels of ADHD service activity?
@@ -74,7 +74,7 @@ The analysis draws on publicly available NHS England datasets and supporting doc
 * NHS England ADHD Data Improvement Plan documentation
 * NHS England ADHD data dictionary and submission guidance
 
-Further details on data preparation, cleaning and analysis methods are available on the Methodology page.
+Further details on data preparation, cleaning and analytical methods are available on the Methodology page.
 
 ---
 
@@ -91,13 +91,13 @@ Further details on data preparation, cleaning and analysis methods are available
 
 ## Project Structure
 
-| Section           | Description                                                 |
-| ----------------- | ----------------------------------------------------------- |
-| Home              | Project overview and objectives                             |
-| Detailed Findings | Full analysis and interpretation of results                 |
-| Visualisations    | Charts and findings from the exploratory analysis           |
-| Methodology       | Data sources, cleaning, assumptions and analytical approach |
-| Resources         | References and supporting materials                         |
+| Section           | Description                                    |
+| ----------------- | ---------------------------------------------- |
+| Home              | Project overview and study objectives          |
+| Detailed Findings | Key findings and interpretation of results     |
+| Visualisations    | Charts and visual analysis                     |
+| Methodology       | Data sources, cleaning and analytical approach |
+| Resources         | References and supporting materials            |
 
 ---
 
@@ -114,4 +114,8 @@ Executive Professional Certificate in Data Analytics
 
 This project was completed for educational purposes as part of the Imperial College London Executive Professional Certificate in Data Analytics.
 
-The findings are based on publicly available data and analytical assumptions described within the methodology. They should not be interpreted as official estimates of ADHD demand or NHS service performance.
+The findings are based on publicly available NHS England data and the analytical assumptions described within the methodology. They should not be interpreted as official estimates of ADHD demand, unmet need or NHS service performance.
+
+---
+
+*Imperial College London – Executive Professional Certificate in Data Analytics*
