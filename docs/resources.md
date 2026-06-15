@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Resources
 ---
@@ -110,7 +109,3 @@ This project was completed for educational purposes as part of the Imperial Coll
 The findings are based on publicly available NHS England data and the analytical assumptions described within the methodology. They should not be interpreted as official estimates of ADHD demand, unmet need or NHS service performance.
 
 ---
-
-## Next Step
-
-To explore the results in more detail, visit the [Detailed Findings](findings.html) page.
