@@ -23,8 +23,6 @@
 </p>
 
 ---
----
-
 
 This page summarises the main findings from the analysis of ADHD prevalence, referrals and waiting-list activity in England between December 2024 and December 2025.
 
