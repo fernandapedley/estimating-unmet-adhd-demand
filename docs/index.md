@@ -1,4 +1,13 @@
-![Imperial College London](images/imperial_logo.png)
+
+<p align="center">
+  <img src="images/imperial_logo_cropped.png" width="450">
+</p>
+
+# Estimating Potential Unmet ADHD Assessment Demand in England
+
+---
+
+## Overview
 
 ## Navigation
 
