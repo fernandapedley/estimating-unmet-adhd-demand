@@ -41,7 +41,7 @@ This page summarises the principal findings from the analysis of ADHD prevalence
 
 ## 1. ADHD Prevalence Increased Substantially
 
-![ADHD Prevalence and Waiting Lists Over Time](images/chart1.png)
+![ADHD Prevalence and Waiting Lists Over Time](images/chart_1_prevalence_waiting_list.png)
 
 ### Finding
 
@@ -57,7 +57,7 @@ The increase was particularly noticeable between January and February 2025, afte
 
 ## 2. Waiting-List Activity and Referrals Continued to Increase
 
-![ADHD Referrals Over Time](images/chart2.png)
+![ADHD Referrals Over Time](images/chart_2_referrals.png)
 
 ### Finding
 
@@ -73,7 +73,7 @@ The similarity between growth in prevalence, waiting-list activity and open refe
 
 ## 3. Adult Age Groups Accounted for Most of the Observed Growth
 
-![ADHD Prevalence by Age Group](images/chart3.png)
+![ADHD Prevalence by Age Group](images/chart_3_prevalence_by_age.png)
 
 ### Finding
 
@@ -89,7 +89,7 @@ Although prevalence increased across all age groups, the largest increases occur
 
 ## 4. Adult Services Experienced Higher Levels of Relative Service Pressure
 
-![Waiting-List Demand Relative to ADHD Prevalence](images/chart5.png)
+![Waiting-List Demand Relative to ADHD Prevalence](images/chart_5_waiting_list_ratio.png)
 
 ### Finding
 
@@ -105,15 +105,31 @@ The findings indicate that adult ADHD services may be experiencing greater relat
 
 ---
 
-## 5. Potential Unmet Demand May Be Greatest Within Adult ADHD Services
+## 5. Average Service Pressure Was Highest in Adult Age Groups
 
-![Potential Unmet Demand Indicator](images/chart7.png)
+![Average Waiting-List Demand Relative to ADHD Prevalence](images/chart_6_average_ratio.png)
+
+### Finding
+
+Adults aged 25+ recorded the highest average waiting-list-to-prevalence ratio, followed closely by the 18–24 age group. Younger age groups showed substantially lower ratios.
+
+### Why it matters
+
+This reinforces the finding that adult ADHD services may be experiencing greater relative service pressure than children's services.
+
+The relatively small difference between the adult age groups suggests that increased service pressure may not be limited to a single adult cohort but may instead affect adult ADHD pathways more broadly.
+
+---
+
+## 6. Potential Unmet Demand May Be Greatest Within Adult ADHD Services
+
+![Potential Unmet Demand Indicator](images/chart_7_unmet_demand_indicator.png)
 
 ### Finding
 
 A simple indicator comparing waiting-list activity with recorded ADHD prevalence remained consistently high throughout the reporting period.
 
-Across multiple analyses, adult age groups consistently showed the highest levels of waiting-list demand relative to recorded prevalence.
+Across multiple analyses, adult age groups consistently showed the highest levels of waiting-list demand relative to recorded ADHD prevalence.
 
 ### Why it matters
 
