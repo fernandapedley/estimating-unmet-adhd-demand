@@ -38,8 +38,7 @@ The analysis was completed using Python and focuses on trends over time, differe
 
 ![Average Waiting-List Demand Relative to ADHD Prevalence](images/chart_6_average_ratio.png)
 
-*ADHD prevalence and waiting-list activity increased substantially between December 2024 and December 2025.*
-
+*Figure 1. ADHD prevalence and waiting-list activity increased substantially between December 2024 and December 2025, with both measures showing a notable step increase following improvements in reporting coverage during early 2025.*
 ---
 
 ## Project Objectives
