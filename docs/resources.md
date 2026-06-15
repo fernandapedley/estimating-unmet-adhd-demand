@@ -9,6 +9,7 @@
 
 ---
 
+
 ## Project Files
 
 ### Jupyter Notebook
@@ -16,9 +17,12 @@
 The complete analysis was conducted using Python within Jupyter Notebook.
 
 Notebook:
-[DRAFT - ADHD Capstone Notebook](../DRAFT%20-%20ADHD_Capstone_Notebook.ipynb)
+
+[View the Full Analysis Notebook](../ADHD_Capstone_JupyterNotebook_FINAL.ipynb)
+
 
 ---
+
 
 ## Data Sources
 
@@ -32,11 +36,13 @@ https://digital.nhs.uk/data-and-information/data-tools-and-services/data-service
 
 ---
 
+
 ## Project Report
 
 Final report PDF to be uploaded.
 
 ---
+
 
 ## Tools Used
 
@@ -47,6 +53,7 @@ Final report PDF to be uploaded.
 * GitHub Pages
 
 ---
+
 
 ## Author
 
