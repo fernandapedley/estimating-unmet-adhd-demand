@@ -3,9 +3,8 @@
   <img src="images/imperial_logo_cropped.png" width="450">
 </p>
 
-# Estimating Potential Unmet ADHD Assessment Demand in England
-
 ---
+
 
 ## Overview
 
@@ -17,6 +16,7 @@
 * [Project Resources](resources.md)
 
 ---
+
   
 # Estimating Potential Unmet ADHD Assessment Demand in England
 
@@ -31,6 +31,7 @@
 
 ---
 
+
 ## Overview
 
 This capstone project explores ADHD prevalence, referrals and waiting-list activity in England using data published by NHS England.
@@ -40,6 +41,7 @@ The aim is to investigate whether trends in prevalence, referrals and waiting-li
 Using Python, I analysed national ADHD data published through NHS England's Neurodevelopmental Data Hub between December 2024 and December 2025. The analysis focuses on trends over time, differences between age groups and the relationship between prevalence and waiting-list activity.
 
 ---
+
 
 ## Key Findings
 
@@ -51,6 +53,7 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ---
 
+
 ## Key Visual
 
 ![Average Waiting List Demand Relative to ADHD Prevalence](images/chart_6_average_ratio.png)
@@ -58,6 +61,7 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 *Adult age groups showed substantially higher waiting-list demand relative to recorded ADHD prevalence than younger age groups. This suggests that service pressure may be concentrated within adult ADHD pathways.*
 
 ---
+
 
 ## Explore the Project
 
@@ -67,6 +71,7 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ---
 
+
 ## Project Background
 
 The project was completed as part of the Professional Certificate in Data Analytics at Imperial College London.
@@ -74,6 +79,7 @@ The project was completed as part of the Professional Certificate in Data Analyt
 The analysis combines my interest in healthcare commissioning, service improvement and data analytics. My interest in this topic is informed both by my professional experience working within the NHS and by my personal experience of receiving an ADHD diagnosis as an adult in the UK.
 
 ---
+
 
 ## Author
 
