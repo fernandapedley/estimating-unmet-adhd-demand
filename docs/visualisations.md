@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visualisations
+---
+
 # Visualisations Gallery
 
 <p align="center">
