@@ -1,12 +1,28 @@
 # Key Findings
 
-## Navigation
+<p align="center">
 
-* [Home](index.md)
-* [Detailed Findings](findings.md)
-* [Methodology](methodology.md)
-* [Project Resources](resources.md)
+<a href="index.md"><b>Home</b></a>
 
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="findings.md"><b>Detailed Findings</b></a>
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="visualisations.md"><b>Visualisations</b></a>
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="methodology.md"><b>Methodology</b></a>
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="resources.md"><b>Resources</b></a>
+
+</p>
+
+---
 ---
 
 
