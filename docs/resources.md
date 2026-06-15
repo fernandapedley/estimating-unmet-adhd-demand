@@ -39,7 +39,7 @@ This page provides access to the datasets, analysis files and supporting resourc
 
 The final report presents the methodology, analysis, findings, limitations and recommendations arising from the project.
 
-**Download the Full Capstone Report**
+[Download the Full Capstone Report](PDF_2026.06.14_Capstone_Report.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ The complete analysis was conducted using Python within Jupyter Notebook.
 
 The notebook contains all data preparation, exploratory analysis, visualisations and supporting calculations used throughout the project.
 
-**View the Full Analysis Notebook**
+[View the Full Analysis Notebook](Capstone_report_master.ipynb)
 
 ---
 
@@ -59,7 +59,7 @@ The notebook contains all data preparation, exploratory analysis, visualisations
 
 Monthly ADHD prevalence, referral and waiting-list activity data published by NHS England.
 
-https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd
+[ADHD Management Information (MI-ADHD)](https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd)
 
 ---
 
@@ -67,7 +67,7 @@ https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd
 
 The primary dataset used in this project was obtained through the NHS England Neurodevelopmental Data Hub.
 
-https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/neurodevelopmental-data-hub
+[Neurodevelopmental Data Hub](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/neurodevelopmental-data-hub)
 
 ---
 
@@ -75,7 +75,7 @@ https://digital.nhs.uk/data-and-information/data-tools-and-services/data-service
 
 Supporting documentation relating to improvements in ADHD data collection, reporting quality and data completeness.
 
-https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/neurodevelopmental-data-hub/adhd-data-improvement-plan
+[ADHD Data Improvement Plan](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/neurodevelopmental-data-hub/adhd-data-improvement-plan)
 
 ---
 
