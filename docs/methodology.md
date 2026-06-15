@@ -150,7 +150,3 @@ The project was completed using:
 * Markdown
 
 ---
-
-## Next Step
-
-For a detailed discussion of the results and interpretation of the findings, please visit the [Detailed Findings](findings.html) page.
