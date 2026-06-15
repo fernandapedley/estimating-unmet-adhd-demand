@@ -4,19 +4,19 @@
 
 <p align="center">
 
-<a href="findings.md"><b>📊 Detailed Findings</b></a>
+<a href="findings.md"><b> Detailed Findings</b></a>
 
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-<a href="visualisations.md"><b>📈 Visualisations</b></a>
+<a href="visualisations.md"><b> Visualisations</b></a>
 
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-<a href="methodology.md"><b>⚙️ Methodology</b></a>
+<a href="methodology.md"><b> Methodology</b></a>
 
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-<a href="resources.md"><b>📚 Resources</b></a>
+<a href="resources.md"><b> Resources</b></a>
 
 </p>
 
