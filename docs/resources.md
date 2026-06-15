@@ -51,7 +51,9 @@ The complete analysis was conducted using Python within Jupyter Notebook.
 
 The notebook contains all data preparation, exploratory analysis, visualisations and supporting calculations used throughout the project.
 
-[View the Full Analysis Notebook](ADHD_Capstone_JupyterNotebook_FINAL.ipynb)
+[Download the Full Analysis Notebook](ADHD_Capstone_JupyterNotebook_FINAL.ipynb)
+
+*Note: the notebook may open as a raw `.ipynb` file in the browser. It can be downloaded and opened in Jupyter Notebook or JupyterLab.*
 
 ---
 
