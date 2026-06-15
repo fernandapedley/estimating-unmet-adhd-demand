@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Key Findings
+---
+
 # Key Findings
 
 <p align="center">
