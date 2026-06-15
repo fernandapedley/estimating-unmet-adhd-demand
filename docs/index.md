@@ -1,27 +1,25 @@
 <p align="center">
-  <img src="images/imperial_logo_cropped.png" width="450">
-</p>
-
-<p align="center">
-
-<a href="index.md">
-<img src="images/icon_home.png" width="70">
-</a>
 
 <a href="findings.md">
-<img src="images/icon_analytics.png" width="70">
+<b>📊 Detailed Findings</b>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="visualisations.md">
-<img src="images/icon_analytics.png" width="70">
+<b>📈 Visualisations</b>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="methodology.md">
-<img src="images/icon_process.png" width="70">
+<b>⚙️ Methodology</b>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="resources.md">
-<img src="images/icon_books.png" width="70">
+<b>📚 Resources</b>
 </a>
 
 </p>
