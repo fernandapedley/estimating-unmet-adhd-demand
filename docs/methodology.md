@@ -1,23 +1,22 @@
 # Methodology
 
-
 <p align="center">
 
 <a href="index.md"><b>Home</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="findings.md"><b>Detailed Findings</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="visualisations.md"><b>Visualisations</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="methodology.md"><b>Methodology</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="resources.md"><b>Resources</b></a>
 
@@ -29,7 +28,29 @@
 
 This project explored whether trends in ADHD prevalence, referrals and waiting-list activity could provide useful insight into potential unmet demand for ADHD assessment and treatment services in England.
 
-The analysis used publicly available ADHD data published by NHS England and focused on national trends between December 2024 and December 2025. The project combined exploratory data analysis, descriptive statistics and visualisation techniques to identify patterns within the dataset.
+The analysis used publicly available ADHD data published by NHS England and focused on national trends between December 2024 and December 2025. The project combined exploratory data analysis, descriptive statistics and data visualisation techniques to identify patterns within the dataset.
+
+---
+
+## Analytical Approach
+
+The project followed a structured analytical process:
+
+```text
+NHS England ADHD Dataset
+            ↓
+      Data Preparation
+            ↓
+ Exploratory Data Analysis
+            ↓
+   Age Group Comparison
+            ↓
+ Proxy Indicator Development
+            ↓
+ Findings and Recommendations
+```
+
+This approach was designed to move from understanding the underlying data to identifying patterns that may provide useful insight into service demand and potential unmet need.
 
 ---
 
@@ -68,7 +89,7 @@ The process included:
 * Renaming indicators to improve readability
 * Creating summary tables for analysis and visualisation
 
-Special attention was paid to ensuring that indicators were interpreted consistently across reporting periods and age groups.
+Particular attention was given to data quality and consistency across reporting periods. This included reviewing potential changes in reporting coverage and ensuring that indicators were interpreted consistently across age groups and reporting periods.
 
 ---
 
@@ -78,7 +99,9 @@ The exploratory analysis was completed in several stages.
 
 First, trends in ADHD prevalence, waiting-list activity and referrals were examined over time. The analysis then explored differences between age groups to identify where growth and service pressure appeared to be concentrated.
 
-Finally, a simple waiting-list-to-prevalence ratio was developed to explore the relationship between recorded ADHD prevalence and waiting-list activity. While this was not intended to measure unmet need directly, it provided a useful way of identifying areas where service pressure may be greatest.
+Finally, a simple waiting-list-to-prevalence ratio was developed to explore the relationship between recorded ADHD prevalence and waiting-list activity.
+
+While this was not intended to measure unmet need directly, it provided a useful way of identifying areas where service pressure may be greatest and helped support comparison between age groups.
 
 Visualisations were created using Matplotlib to support interpretation of the findings.
 
@@ -90,22 +113,29 @@ Several limitations should be considered when interpreting the findings.
 
 The analysis relied on routinely collected management information published by NHS England and therefore depends on the quality and completeness of the source data. Changes in reporting coverage may mean that some increases observed during the reporting period reflect improved data submission as well as genuine increases in activity.
 
+This is particularly relevant when interpreting the notable increase observed between January and February 2025.
+
 The project focused on descriptive analysis and did not attempt to establish causal relationships between variables.
 
-In addition, the waiting-list-to-prevalence ratio may reflect a combination of unmet demand, service backlog, referral behaviour and service capacity constraints. It should therefore be interpreted as a broad indicator of service pressure rather than a direct measure of unmet need.
+In addition, the waiting-list-to-prevalence ratio may reflect a combination of unmet demand, service backlog, referral behaviour, diagnostic capacity, service capacity constraints and reporting practices. It should therefore be interpreted as a broad indicator of service pressure rather than a direct measure of unmet need.
+
+Finally, the analysis focused primarily on trends over time and differences between age groups. Other potentially important factors, including ethnicity, sex, deprivation and geographical variation, were outside the scope of this project and may provide useful areas for future investigation.
 
 ---
 
-## Tools Used
+## Tools and Technologies
+
+The project was completed using:
 
 * Python
 * Pandas
 * Matplotlib
 * Jupyter Notebook
 * GitHub Pages
+* Markdown
 
 ---
 
-## Next Page
+## Next Step
 
-➡ [View Detailed Findings](findings.md)
+[View Detailed Findings](findings.md)
