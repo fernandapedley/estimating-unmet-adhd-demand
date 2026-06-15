@@ -2,23 +2,11 @@
 
 <p align="center">
 
-<a href="index.md"><b>Home</b></a>
-
-   |   
-
-<a href="findings.md"><b>Detailed Findings</b></a>
-
-   |   
-
-<a href="visualisations.md"><b>Visualisations</b></a>
-
-   |   
-
-<a href="methodology.md"><b>Methodology</b></a>
-
-   |   
-
-<a href="resources.md"><b>Resources</b></a>
+<a href="index.html"><b>Home</b></a>
+<a href="findings.html"><b>Detailed Findings</b></a>
+<a href="visualisations.html"><b>Visualisations</b></a>
+<a href="methodology.html"><b>Methodology</b></a>
+<a href="resources.html"><b>Resources</b></a>
 
 </p>
 
