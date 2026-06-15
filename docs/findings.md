@@ -1,5 +1,15 @@
 # Key Findings
 
+## Navigation
+
+* [Home](index.md)
+* [Detailed Findings](findings.md)
+* [Methodology](methodology.md)
+* [Project Resources](resources.md)
+
+---
+
+
 This page summarises the main findings from the analysis of ADHD prevalence, referrals and waiting-list activity in England between December 2024 and December 2025.
 
 ---
