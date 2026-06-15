@@ -50,11 +50,11 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ---
 
-## Project Resources
+## Explore the Project
 
-* Capstone Report (final version pending)
-* Jupyter Notebook
-* NHS England Neurodevelopmental Data Hub
+- [Detailed Findings](findings.md)
+- [Methodology](methodology.md)
+- [Project Resources](resources.md)
 
 ---
 
