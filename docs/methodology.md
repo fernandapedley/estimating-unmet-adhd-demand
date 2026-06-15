@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ## Overview
 
 This project explored whether trends in ADHD prevalence, referrals and waiting-list activity could provide useful insight into potential unmet demand for ADHD assessment and treatment services in England.
