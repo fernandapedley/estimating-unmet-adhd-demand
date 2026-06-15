@@ -2,7 +2,7 @@
 
 layout: default
 title: Resources
----
+----------------
 
 # Project Resources
 
@@ -36,33 +36,13 @@ This page provides access to the datasets, analysis files and supporting resourc
 
 ---
 
-## Project Files
-
-### Final Report
-
-The final report presents the methodology, analysis, findings, limitations and recommendations arising from the project.
-
-[Download the Full Capstone Report](YOUR_REPORT_FILENAME.pdf)
-
----
-
-### Jupyter Notebook
-
-The complete analysis was conducted using Python within Jupyter Notebook.
-
-The notebook contains all data preparation, exploratory analysis, visualisations and supporting calculations used throughout the project.
-
-[View the Full Analysis Notebook](YOUR_NOTEBOOK_FILENAME.ipynb)
-
----
-
 ## Data Sources
 
 ### NHS England ADHD Management Information (MI-ADHD)
 
 Monthly ADHD prevalence, referral and waiting-list activity data published by NHS England.
 
-[ADHD Management Information (MI-ADHD)](https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd)
+[NHS England ADHD Management Information (MI-ADHD)](https://digital.nhs.uk/data-and-information/publications/statistical/mi-adhd)
 
 ---
 
@@ -70,7 +50,7 @@ Monthly ADHD prevalence, referral and waiting-list activity data published by NH
 
 The primary dataset used in this project was obtained through the NHS England Neurodevelopmental Data Hub.
 
-[Neurodevelopmental Data Hub](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/neurodevelopmental-data-hub)
+[NHS England Neurodevelopmental Data Hub](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/neurodevelopmental-data-hub)
 
 ---
 
