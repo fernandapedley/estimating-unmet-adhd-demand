@@ -1,27 +1,29 @@
 ---
 layout: default
 title: Resources
----
+----------------
 
 # Project Resources
 
 <p align="center">
 
-
 <a href="index.html"><b>Home</b></a>
 
+   |   
 
 <a href="findings.html"><b>Detailed Findings</b></a>
 
+   |   
 
 <a href="visualisations.html"><b>Visualisations</b></a>
 
+   |   
 
 <a href="methodology.html"><b>Methodology</b></a>
 
+   |   
 
 <a href="resources.html"><b>Resources</b></a>
-
 
 </p>
 
@@ -39,7 +41,7 @@ This page provides access to the datasets, analysis files and supporting resourc
 
 The final report presents the methodology, analysis, findings, limitations and recommendations arising from the project.
 
-[Download the Full Capstone Report](PDF_2026.06.14_Capstone_Report.pdf)
+[Download the Full Capstone Report](YOUR_REPORT_FILENAME.pdf)
 
 ---
 
@@ -49,7 +51,7 @@ The complete analysis was conducted using Python within Jupyter Notebook.
 
 The notebook contains all data preparation, exploratory analysis, visualisations and supporting calculations used throughout the project.
 
-[View the Full Analysis Notebook](Capstone_report_master.ipynb)
+[View the Full Analysis Notebook](YOUR_NOTEBOOK_FILENAME.ipynb)
 
 ---
 
@@ -130,4 +132,4 @@ The findings are based on publicly available NHS England data and the analytical
 
 ## Next Step
 
-To explore the results in more detail, visit the **Detailed Findings** page.
+To explore the results in more detail, visit the [Detailed Findings](findings.html) page.
