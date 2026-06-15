@@ -41,7 +41,7 @@ This page provides access to the datasets, analysis files and supporting resourc
 
 The final report presents the methodology, analysis, findings, limitations and recommendations arising from the project.
 
-[Download the Full Capstone Report](Fernanda_Pedley_ADHD_Capstone_Report.pdf)
+[Download the Full Capstone Report](Fernanda_Pedley_ADHD_Capstone_Report_FINAL.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ The complete analysis was conducted using Python within Jupyter Notebook.
 
 The notebook contains all data preparation, exploratory analysis, visualisations and supporting calculations used throughout the project.
 
-[View the Full Analysis Notebook](ADHD_Capstone_JupyterNotebook.ipynb)
+[View the Full Analysis Notebook](ADHD_Capstone_JupyterNotebook_FINAL.ipynb)
 
 ---
 
