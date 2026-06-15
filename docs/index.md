@@ -24,6 +24,7 @@
 
 ---
 
+
 ## Project Overview
 
 Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common neurodevelopmental conditions, yet access to assessment services across England remains highly variable. Long waiting lists, increasing referral volumes and differences in local service capacity have created significant challenges for both patients and healthcare systems.
@@ -33,6 +34,7 @@ The aim of this project is to estimate the potential unmet demand for ADHD asses
 The project was completed as part of the Imperial College London Executive Professional Certificate in Data Analytics.
 
 ---
+
 
 ## Project Objectives
 
@@ -46,6 +48,7 @@ The project sought to:
 
 ---
 
+
 ## Key Questions
 
 This analysis explores several questions:
@@ -56,6 +59,7 @@ This analysis explores several questions:
 4. What insights can support future workforce and service planning?
 
 ---
+
 
 ## Data Sources
 
@@ -70,6 +74,7 @@ Further details are available on the **Methodology** page.
 
 ---
 
+
 ## Tools Used
 
 - Python
@@ -81,6 +86,7 @@ Further details are available on the **Methodology** page.
 - GitHub Pages
 
 ---
+
 
 ## Project Structure
 
