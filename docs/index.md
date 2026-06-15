@@ -42,7 +42,7 @@
 | Topic | ADHD Assessment Demand |
 | Geography | England |
 | Period | December 2024 – December 2025 |
-| Tools | Python, Pandas, Matplotlib |
+| Tools | Python, Pandas, Matplotlib, Jupyter Notebook |
 | Data Source | NHS England Neurodevelopmental Data Hub |
 | Key Finding | Adult ADHD pathways showed the highest service pressure |
 
