@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resources
+---
+
 # Project Resources
 
 <p align="center">
