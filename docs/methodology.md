@@ -2,15 +2,21 @@
 
 <p align="center">
 
+
 <a href="index.html"><b>Home</b></a>
+
 
 <a href="findings.html"><b>Detailed Findings</b></a>
 
+
 <a href="visualisations.html"><b>Visualisations</b></a>
+
 
 <a href="methodology.html"><b>Methodology</b></a>
 
+
 <a href="resources.html"><b>Resources</b></a>
+
 
 </p>
 
