@@ -106,8 +106,6 @@ The analysis combines my interest in healthcare commissioning, service improveme
 
 **Fernanda Pedley (she/her)**
 
-Programme Lead, NHS
+Programme Lead, NHS SEL Integrated Care Board
 
-Professional Certificate in Data Analytics
-
-Imperial College London
+Professional Certificate in Data Analytics - Imperial College London
