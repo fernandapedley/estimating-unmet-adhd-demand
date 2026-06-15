@@ -1,4 +1,17 @@
+![Imperial College London](images/imperial_logo.png)
+
 # Estimating Potential Unmet ADHD Assessment Demand in England
+
+### Capstone Project
+
+### Professional Certificate in Data Analytics
+
+### Imperial College London
+
+**Author:** Fernanda Pedley (she/her)
+**Date:** June 2026
+
+---
 
 ## Overview
 
@@ -6,17 +19,17 @@ This capstone project explores ADHD prevalence, referrals and waiting-list activ
 
 The aim is to investigate whether trends in prevalence, referrals and waiting-list activity can provide useful insight into potential unmet demand for ADHD assessment and treatment services.
 
-Using Python, I analysed national ADHD data published through NHS England's Neurodevelopmental Data Hub between December 2024 and December 2025. The project focuses on trends over time, differences between age groups and the relationship between prevalence and waiting-list activity.
+Using Python, I analysed national ADHD data published through NHS England's Neurodevelopmental Data Hub between December 2024 and December 2025. The analysis focuses on trends over time, differences between age groups and the relationship between prevalence and waiting-list activity.
 
 ---
 
 ## Key Findings
 
-- ADHD prevalence increased by approximately 54% between December 2024 and December 2025.
-- Waiting-list activity increased by approximately 54% during the same period.
-- Adult age groups accounted for most of the observed growth.
-- Adult ADHD services consistently showed higher levels of service pressure than children's services.
-- Potential unmet demand appears greatest within adult ADHD pathways.
+* ADHD prevalence increased by approximately 54% between December 2024 and December 2025.
+* Waiting-list activity increased by approximately 54% during the same period.
+* Adult age groups accounted for most of the observed growth.
+* Adult ADHD services consistently showed higher levels of service pressure than children's services.
+* Potential unmet demand appears greatest within adult ADHD pathways.
 
 ---
 
@@ -30,13 +43,13 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ## Project Resources
 
-- Capstone Report (final version pending)
-- Jupyter Notebook
-- NHS England Neurodevelopmental Data Hub
+* Capstone Report (final version pending)
+* Jupyter Notebook
+* NHS England Neurodevelopmental Data Hub
 
 ---
 
-## About This Project
+## Project Background
 
 The project was completed as part of the Professional Certificate in Data Analytics at Imperial College London.
 
@@ -50,5 +63,5 @@ The analysis combines my interest in healthcare commissioning, service improveme
 
 Programme Lead, NHS
 
-Professional Certificate in Data Analytics  
+Professional Certificate in Data Analytics
 Imperial College London
