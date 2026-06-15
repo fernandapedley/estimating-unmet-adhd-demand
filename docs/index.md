@@ -4,19 +4,19 @@
 
 <a href="index.md"><b>Home</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="findings.md"><b>Detailed Findings</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="visualisations.md"><b>Visualisations</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="methodology.md"><b>Methodology</b></a>
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   |   
 
 <a href="resources.md"><b>Resources</b></a>
 
@@ -24,86 +24,94 @@
 
 ---
 
-
 ## Project Overview
 
-Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common neurodevelopmental conditions, yet access to assessment services across England remains highly variable. Long waiting lists, increasing referral volumes and differences in local service capacity have created significant challenges for both patients and healthcare systems.
+Attention Deficit Hyperactivity Disorder (ADHD) services across England have experienced increasing demand in recent years, alongside growing waiting lists and concerns about service capacity.
 
-The aim of this project is to estimate the potential unmet demand for ADHD assessments across England by comparing expected prevalence rates with observed referral activity. By combining publicly available demographic, prevalence and referral datasets, the analysis seeks to identify areas where demand may exceed current service provision.
+This capstone project uses publicly available NHS England ADHD data to examine trends in prevalence, referrals and waiting-list activity between December 2024 and December 2025. The project does not attempt to measure unmet need directly. Instead, it explores whether patterns within routinely published ADHD data can provide useful insight into where service pressure may be greatest and where potential unmet demand may exist.
 
-The project was completed as part of the Imperial College London Executive Professional Certificate in Data Analytics.
+The analysis was completed using Python and focuses on trends over time, differences between age groups, and the relationship between recorded ADHD prevalence and waiting-list activity.
 
 ---
 
+## Key Visual
+
+![ADHD Prevalence and Waiting Lists Over Time](images/adhd_prevalence_waiting_list.png)
+
+*ADHD prevalence and waiting-list activity increased substantially between December 2024 and December 2025.*
+
+---
 
 ## Project Objectives
 
 The project sought to:
 
-- Estimate the expected number of people living with ADHD within each Integrated Care Board (ICB) area.
-- Compare estimated prevalence with available referral and assessment activity data.
-- Identify geographical variation in potential unmet demand.
-- Explore patterns that may support future service planning and resource allocation.
-- Demonstrate the use of data analytics techniques to address a real-world healthcare challenge.
+* Analyse trends in ADHD prevalence, waiting-list activity and referrals between December 2024 and December 2025.
+* Explore differences in ADHD service activity across age groups.
+* Develop a simple indicator comparing waiting-list activity with recorded ADHD prevalence.
+* Identify patterns that may indicate areas of increased service pressure.
+* Demonstrate the application of data analytics techniques to a real-world healthcare challenge using publicly available NHS data.
 
 ---
-
 
 ## Key Questions
 
 This analysis explores several questions:
 
-1. How many people may be living with ADHD within each ICB area?
-2. How does estimated prevalence compare with current referral activity?
-3. Are there areas where unmet demand appears particularly high?
-4. What insights can support future workforce and service planning?
+1. How have ADHD prevalence, waiting-list activity and referrals changed over time?
+2. Which age groups account for the greatest levels of ADHD service activity?
+3. How does waiting-list activity compare with recorded ADHD prevalence across different age groups?
+4. What do these patterns suggest about potential service pressure and unmet demand within ADHD services?
 
 ---
-
 
 ## Data Sources
 
-The analysis draws on publicly available datasets, including:
+The analysis draws on publicly available NHS England datasets and supporting documentation, including:
 
-- Office for National Statistics (ONS) population estimates
-- NHS England referral and activity data
-- Published ADHD prevalence research
-- Integrated Care Board geographical datasets
+* NHS England ADHD Management Information (MI-ADHD) dataset
+* NHS England Neurodevelopmental Data Hub
+* NHS England ADHD Data Improvement Plan documentation
+* NHS England ADHD data dictionary and submission guidance
 
-Further details are available on the **Methodology** page.
+Further details on data preparation, cleaning and analysis methods are available on the Methodology page.
 
 ---
-
 
 ## Tools Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- GeoPandas
-- Jupyter Notebook
-- GitHub Pages
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+* GitHub Pages
 
 ---
 
-
 ## Project Structure
 
-| Section | Description |
-|----------|-------------|
-| Home | Project overview and objectives |
-| Detailed Findings | Full analysis and interpretation of results |
-| Visualisations | Charts and maps produced during the analysis |
-| Methodology | Data sources, assumptions and analytical approach |
-| Resources | References and supporting materials |
+| Section           | Description                                                 |
+| ----------------- | ----------------------------------------------------------- |
+| Home              | Project overview and objectives                             |
+| Detailed Findings | Full analysis and interpretation of results                 |
+| Visualisations    | Charts and findings from the exploratory analysis           |
+| Methodology       | Data sources, cleaning, assumptions and analytical approach |
+| Resources         | References and supporting materials                         |
+
+---
+
+## Author
+
+**Fernanda Pedley (she/her)**
+
+Imperial College London
+Executive Professional Certificate in Data Analytics
 
 ---
 
 ## Disclaimer
 
-This project was completed for educational purposes and should not be interpreted as an official estimate of ADHD service demand. The findings are based on publicly available data and a number of analytical assumptions, which are explained within the methodology section.
+This project was completed for educational purposes as part of the Imperial College London Executive Professional Certificate in Data Analytics.
 
----
-
-*Imperial College London – Executive Professional Certificate in Data Analytics*
+The findings are based on publicly available data and analytical assumptions described within the methodology. They should not be interpreted as official estimates of ADHD demand or NHS service performance.
