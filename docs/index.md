@@ -1,5 +1,11 @@
 ![Imperial College London](images/imperial_logo.png)
 
+## Navigation
+
+- [Home](index.md)
+- [Detailed Findings](findings.md)
+- [Methodology](methodology.md)
+  
 # Estimating Potential Unmet ADHD Assessment Demand in England
 
 ### Capstone Project
