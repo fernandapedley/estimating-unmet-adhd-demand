@@ -1,6 +1,3 @@
 title: Estimating Potential Unmet ADHD Assessment Demand in England
 description: Capstone project for the Imperial College London Executive Professional Certificate in Data Analytics
-theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-seo-tag
+theme: jekyll-theme-slate
