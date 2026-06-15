@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="images/imperial_logo_cropped.png" width="450">
 </p>
@@ -13,6 +12,10 @@
 <img src="images/icon_analytics.png" width="70">
 </a>
 
+<a href="visualisations.md">
+<img src="images/icon_analytics.png" width="70">
+</a>
+
 <a href="methodology.md">
 <img src="images/icon_process.png" width="70">
 </a>
@@ -22,21 +25,9 @@
 </a>
 
 </p>
----
-
-
-## Overview
-
-## Navigation
-
-* [Home](index.md)
-* [Detailed Findings](findings.md)
-* [Methodology](methodology.md)
-* [Project Resources](resources.md)
 
 ---
 
-  
 # Estimating Potential Unmet ADHD Assessment Demand in England
 
 ### Capstone Project
@@ -45,22 +36,36 @@
 
 ### Imperial College London
 
+Healthcare Analytics Portfolio Project
+
 **Author:** Fernanda Pedley (she/her)
+
 **Date:** June 2026
 
 ---
 
+## Project Summary
+
+| Item        | Details                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| Topic       | ADHD Assessment Demand                                                                   |
+| Geography   | England                                                                                  |
+| Period      | Dec 2024 – Dec 2025                                                                      |
+| Tools       | Python, Pandas, Matplotlib                                                               |
+| Data Source | NHS England Neurodevelopmental Data Hub                                                  |
+| Key Finding | Adult ADHD pathways consistently showed higher service pressure than children's services |
+
+---
 
 ## Overview
 
 This capstone project explores ADHD prevalence, referrals and waiting-list activity in England using data published by NHS England.
 
-The aim is to investigate whether trends in prevalence, referrals and waiting-list activity can provide useful insight into potential unmet demand for ADHD assessment and treatment services.
+The aim is to investigate whether trends in prevalence and service activity can provide useful insight into potential unmet demand for ADHD assessment and treatment services.
 
 Using Python, I analysed national ADHD data published through NHS England's Neurodevelopmental Data Hub between December 2024 and December 2025. The analysis focuses on trends over time, differences between age groups and the relationship between prevalence and waiting-list activity.
 
 ---
-
 
 ## Key Findings
 
@@ -72,7 +77,6 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ---
 
-
 ## Key Visual
 
 ![Average Waiting List Demand Relative to ADHD Prevalence](images/chart_6_average_ratio.png)
@@ -81,15 +85,14 @@ Using Python, I analysed national ADHD data published through NHS England's Neur
 
 ---
 
-
 ## Explore the Project
 
-- [Detailed Findings](findings.md)
-- [Methodology](methodology.md)
-- [Project Resources](resources.md)
+* [Detailed Findings](findings.md)
+* [Visualisations Gallery](visualisations.md)
+* [Methodology](methodology.md)
+* [Project Resources](resources.md)
 
 ---
-
 
 ## Project Background
 
@@ -99,7 +102,6 @@ The analysis combines my interest in healthcare commissioning, service improveme
 
 ---
 
-
 ## Author
 
 **Fernanda Pedley (she/her)**
@@ -107,4 +109,5 @@ The analysis combines my interest in healthcare commissioning, service improveme
 Programme Lead, NHS
 
 Professional Certificate in Data Analytics
+
 Imperial College London
