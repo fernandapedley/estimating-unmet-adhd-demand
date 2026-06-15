@@ -2,9 +2,12 @@
 
 ## Navigation
 
-- [Home](index.md)
-- [Detailed Findings](findings.md)
-- [Methodology](methodology.md)
+* [Home](index.md)
+* [Detailed Findings](findings.md)
+* [Methodology](methodology.md)
+* [Project Resources](resources.md)
+
+---
   
 # Estimating Potential Unmet ADHD Assessment Demand in England
 
