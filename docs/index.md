@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Estimating Unmet ADHD Assessment Demand in England Using Prevalence and Referral Data
 
 <p align="center">
 
