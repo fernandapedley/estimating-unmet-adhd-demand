@@ -34,12 +34,14 @@ The analysis was completed using Python and focuses on trends over time, differe
 
 ---
 
+
 ## Key Visual
 
 ![Average Waiting-List Demand Relative to ADHD Prevalence](images/chart_6_average_ratio.png)
 
 *Figure 1. ADHD prevalence and waiting-list activity increased substantially between December 2024 and December 2025, with both measures showing a notable step increase following improvements in reporting coverage during early 2025.*
 ---
+
 
 ## Project Objectives
 
@@ -53,6 +55,7 @@ The project sought to:
 
 ---
 
+
 ## Key Questions
 
 This analysis explores the following questions:
@@ -63,6 +66,7 @@ This analysis explores the following questions:
 4. What do these patterns suggest about potential service pressure and unmet demand within ADHD services?
 
 ---
+
 
 ## Data Sources
 
@@ -77,6 +81,7 @@ Further details on data preparation, cleaning and analytical methods are availab
 
 ---
 
+
 ## Tools Used
 
 * Python
@@ -87,6 +92,7 @@ Further details on data preparation, cleaning and analytical methods are availab
 * GitHub Pages
 
 ---
+
 
 ## Project Structure
 
@@ -100,6 +106,7 @@ Further details on data preparation, cleaning and analytical methods are availab
 
 ---
 
+
 ## Author
 
 **Fernanda Pedley (she/her)**
@@ -108,6 +115,7 @@ Imperial College London
 Executive Professional Certificate in Data Analytics
 
 ---
+
 
 ## Disclaimer
 
