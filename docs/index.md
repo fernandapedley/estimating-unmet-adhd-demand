@@ -80,10 +80,10 @@ The analysis focuses on trends over time, differences between age groups and the
 
 ## Explore the Project
 
-- [📊 Detailed Findings](findings.md)
-- [📈 Visualisations](visualisations.md)
-- [⚙️ Methodology](methodology.md)
-- [📚 Project Resources](resources.md)
+- [Detailed Findings](findings.md)
+- [Visualisations](visualisations.md)
+- [Methodology](methodology.md)
+- [Project Resources](resources.md)
 
 ---
 
